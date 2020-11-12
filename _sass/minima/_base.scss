@@ -107,15 +107,15 @@ h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: #8f00ff;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: #3a125f;
   }
 
   &:hover {
-    color: $text-color;
+    color: #d296ff;
     text-decoration: underline;
   }
 
@@ -156,6 +156,7 @@ code {
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 code {
