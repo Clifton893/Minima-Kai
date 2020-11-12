@@ -18,3 +18,4 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 
 ### Removed
 - History.markdown, in favor of this CHANGELOG file.
+- RSS feed from config.yml and home layout.
