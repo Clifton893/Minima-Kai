@@ -6,6 +6,12 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 
 ## [Unreleased]
 
+## [0.0.2] - 2020-11-12
+### Changed
+- Header links order to About/Blog/Now (alphabetical and looks nice).
+- Home page to only show the latest blog post.
+- Blog archive's visual hierarchy to match original home page feed.
+
 ## [0.0.1] - 2020-11-11
 ### Added
 - This fork to my repositories. :)
