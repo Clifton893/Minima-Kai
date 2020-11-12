@@ -10,3 +10,11 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Added
 - This fork to my repositories. :)
 - This CHANGELOG file.
+- Archive.md
+- Now.md
+
+### Changed
+- Reorganized site pages' front matter, for a consistent format.
+
+### Removed
+- History.markdown, in favor of this CHANGELOG file.
