@@ -12,10 +12,11 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - This CHANGELOG file.
 - Archive.md
 - Now.md
+- Header links in _config.yml
 
 ### Changed
 - Reorganized site pages' front matter, for a consistent format.
 
 ### Removed
 - History.markdown, in favor of this CHANGELOG file.
-- RSS feed from config.yml and home layout.
+- RSS feed from _config.yml and home layout.
