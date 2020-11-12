@@ -12,7 +12,7 @@ layout: default
 
   <br/>
   
-<h2>Latest blog post:</h2>
+<h2>Latest post:</h2>
   {% for post in site.posts limit:1 %}
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
