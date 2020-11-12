@@ -5,6 +5,16 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - [Date format](https://www.iso.org/iso-8601-date-and-time-format.html) is `YEAR-MONTH-DAY`.
 
 ## [Unreleased]
+- Customize _config.yml
+- Link to my social media accounts
+- Add humans.txt
+- Add Google Analytics
+- Customize README.md
+- Add ARIA labels to social media icons
+- Add content to now.md
+- Add content to about.md
+- Remove stock Minima blog posts
+- Add content to index.md
 
 ## [0.0.2] - 2020-11-12
 ### Changed
