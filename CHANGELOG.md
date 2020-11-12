@@ -11,6 +11,8 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Header links order to About/Blog/Now (alphabetical and looks nice).
 - Home page to only show the latest blog post.
 - Blog archive's visual hierarchy to match original home page feed.
+- Typography for site, adding Ubuntu, Ubuntu Mono, and altering font weights.
+- Link state colors to personalize the site.
 
 ## [0.0.1] - 2020-11-11
 ### Added
