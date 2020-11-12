@@ -13,6 +13,7 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Blog archive's visual hierarchy to match original home page feed.
 - Typography for site, adding Ubuntu, Ubuntu Mono, and altering font weights.
 - Link state colors to personalize the site.
+- Darkened the background color to be easier on the eyes.
 
 ## [0.0.1] - 2020-11-11
 ### Added
