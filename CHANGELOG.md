@@ -10,7 +10,6 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Add humans.txt
 - Add Google Analytics
 - Customize README.md
-- Add ARIA labels to social media icons
 - Add content to now.md
 - Add content to about.md
 - Remove stock Minima blog posts
