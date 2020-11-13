@@ -16,6 +16,7 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [0.0.3] - 2020-11-13
 ### Added
 - Links to my social media accounts.
+- Copyright to footer.
 
 ### Changed
 - Customized config.yml file.
