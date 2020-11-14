@@ -17,6 +17,7 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Added
 - Links to my social media accounts.
 - Copyright to footer.
+- Welcome copy to index.md.
 
 ### Changed
 - Customized config.yml file.
