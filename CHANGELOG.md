@@ -11,7 +11,6 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Add content to now.md
 - Add content to about.md
 - Remove stock Minima blog posts
-- Add content to index.md
 
 ## [0.0.3] - 2020-11-13
 ### Added
