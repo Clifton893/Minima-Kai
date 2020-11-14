@@ -12,7 +12,13 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Add content to about.md
 - Remove all stock Minima blog posts
 
-## [0.0.4] - 2020-11-14
+## [0.1.4] - 2020-11-14
+### Added
+- `develop` branch, and adoption of the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) model.
+
+### Changed
+- Version history in accordance with Gitflow versioning of `main` branch.
+
 ### Removed
 - Three stock blog posts.
 
