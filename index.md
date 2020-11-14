@@ -14,6 +14,6 @@ title: Hello! 👋
 I love learning, I love technology, and I love solving problems. So I created this site to satisfy all three of those things!
 - My favorite way to learn something new is to write a research paper about it;
 - Coding this site was a great exercise in source control, web development, and project management;
-- Potential employers can verify my IT understanding.
+- Potential employers can see if I'm a good fit for their team.
 
-Welcome to my blog!
+Regardless of why you're here, welcome to my blog!
