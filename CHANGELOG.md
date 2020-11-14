@@ -10,7 +10,11 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Customize README.md
 - Add content to now.md
 - Add content to about.md
-- Remove stock Minima blog posts
+- Remove all stock Minima blog posts
+
+## [0.0.4] - 2020-11-14
+### Removed
+- Three stock blog posts.
 
 ## [0.0.3] - 2020-11-13
 ### Added
