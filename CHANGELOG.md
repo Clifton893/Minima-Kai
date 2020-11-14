@@ -21,6 +21,7 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Changed
 - Customized config.yml file.
 - Fonts to `IBM Plex Sans` and `IBM Plex Mono` for better visual identity.
+- Site description.
 
 ## [0.0.2] - 2020-11-12
 ### Changed
