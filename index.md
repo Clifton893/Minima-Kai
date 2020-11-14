@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Hello!
+title: Hello! 👋
 ---
 
 **My name's Clifton**, and I'm an information technology student pursuing Google's IT Support Professional certificate. [I also used to be a sushi chef!](/about.md)
