@@ -16,6 +16,9 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Added
 - Heavier font weight of 600 to IBM Plex Sans, for better bold text contrast.
 
+### Removed
+- Stale/unused branches to tidy up my repo.
+
 ## [0.1.4] - 2020-11-14
 ### Added
 - `develop` branch, and adoption of the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) model.
