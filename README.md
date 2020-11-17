@@ -6,7 +6,7 @@
 - This is placeholder content for this README file, and will be updated with a proper format and content.
 
 ## Release History 📝
-See: [CHANGELOG.md]()
+See: [CHANGELOG.md](/CHANGELOG.md)
 
 ## Motivation 🤔
 I love learning, I love technology, and I love solving problems. So I created this site to satisfy all three of those things!
