@@ -7,10 +7,13 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [Unreleased]
 - Add humans.txt
 - Add Google Analytics
-- Customize README.md
 - Add content to now.md
 - Add content to about.md
 - Remove all stock Minima blog posts
+
+## [0.1.6] - 2020-11-15
+### Changed
+- Totally overhauled README.md, and personalized it to my project.
 
 ## [0.1.5] - 2020-11-15
 ### Added
