@@ -15,6 +15,9 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Changed
 - Totally overhauled README.md, and personalized it to my project.
 
+### Removed
+- Screenshot from forked repo.
+
 ## [0.1.5] - 2020-11-15
 ### Added
 - Heavier font weight of 600 to IBM Plex Sans, for better bold text contrast.
