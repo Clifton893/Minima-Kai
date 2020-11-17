@@ -11,7 +11,11 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Add content to about.md
 - Remove all stock Minima blog posts
 
-## [0.1.6] - 2020-11-15
+## [0.1.7] - 2020-11-17
+### Changes
+- Link colors (green is more my style), and set links to bold weight.
+
+## [0.1.6] - 2020-11-16
 ### Changed
 - Totally overhauled README.md, and personalized it to my project.
 
