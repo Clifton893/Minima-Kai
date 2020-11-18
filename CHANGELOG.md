@@ -12,8 +12,12 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Remove all stock Minima blog posts
 
 ## [0.1.7] - 2020-11-17
+### Added
+- Layout to Now page.
+
 ### Changes
 - Link colors (green is more my style), and set links to bold weight.
+- Tidy up readme wording.
 
 ## [0.1.6] - 2020-11-16
 ### Changed
