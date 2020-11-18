@@ -107,15 +107,15 @@ h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #8f00ff;
+  color: #1aa260;
+  font-weight: 600;
   text-decoration: none;
 
   &:visited {
-    color: #3a125f;
+    color: #005f34;
   }
 
   &:hover {
-    color: #d296ff;
     text-decoration: underline;
   }
 

@@ -28,4 +28,4 @@ This repo follows the Gitflow Workflow model, established by [Vincent Driessen](
 
 ## License 📄
 - Code: [MIT](http://opensource.org/licenses/MIT)
-- Content:  Copyright © 2020 [Clifton Long Jr.]()
+- Content: © 2020 [Clifton Long Jr.]()
