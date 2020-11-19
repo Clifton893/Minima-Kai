@@ -7,7 +7,6 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [Unreleased]
 - Add humans.txt
 - Add Google Analytics
-- Add content to about.md
 - Remove all stock Minima blog posts
 
 ## [0.1.8] - 2020-11-19
