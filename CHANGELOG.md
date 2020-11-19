@@ -10,6 +10,10 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - Add content to about.md
 - Remove all stock Minima blog posts
 
+## [0.1.8] - 2020-11-19
+### Added
+- Original content to About page.
+
 ## [0.1.7] - 2020-11-17
 ### Added
 - Layout to Now page.
