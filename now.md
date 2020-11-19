@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-*Based on the [now page](https://nownownow.com/about) idea by [Derek Sivers](https://sive.rs/). Last update:* `2020-11-17`
+*Based on the [now page](https://nownownow.com/about) idea by [Derek Sivers](https://sive.rs/). Last update:* `2020-11-19`
 
 ### 👨‍💻 Professional
 - Making great progress on Google's IT Support Professional certificate on Coursera. 
