@@ -4,15 +4,10 @@ title: About
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!-- Profile pic here -->
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Howdy!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm Clifton, an IT student based in Austin, Texas.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Curious by nature, I have a big appetite for knowledge. From documentation to best practices, across technologies historic and cutting-edge, few things thrill me more than learning about technology. But one thing that *does* thrill me more is finding solutions to other peoples' problems. And I connected the dots, and realized that it was time to change careers into information technology.
