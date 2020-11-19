@@ -8,7 +8,8 @@ permalink: /now
 
 ### 👨‍💻 Professional
 - Making great progress on Google's IT Support Professional certificate on Coursera. 
-  - Studying about 2 hours every morning before work; and 6-8 hours every day off.
+  - Getting 2 strong hours of study every morning, before leaving for work;
+  - Days off tend to be 6-8 hours of course study and projects; with a day dedicated solely to rest and mental health.
   - Currently halfway through the Networking course, having just taken a deep look at the TCP/IP Model.
 
 ### 🛠 Projects
