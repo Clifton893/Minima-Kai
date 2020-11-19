@@ -13,6 +13,9 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ### Added
 - Original content to About page.
 
+### Changed
+- Updated Now page.
+
 ## [0.1.7] - 2020-11-17
 ### Added
 - Layout to Now page.
