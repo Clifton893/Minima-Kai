@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<!-- Profile pic here -->
+![profile](/assets/profilePic.png)
 
 ### Howdy!
 
