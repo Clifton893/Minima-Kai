@@ -5,15 +5,27 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - [Date format](https://www.iso.org/iso-8601-date-and-time-format.html) is `YEAR-MONTH-DAY`.
 
 ## [Unreleased]
-- Add humans.txt
 - Add Google Analytics
-- Add content to now.md
-- Add content to about.md
 - Remove all stock Minima blog posts
 
+## [0.2.0] - 2020-11-21
+### Added
+- Profile picture to About page.
+
+## [0.1.8] - 2020-11-19
+### Added
+- Original content to About page.
+
+### Changed
+- Updated Now page.
+
 ## [0.1.7] - 2020-11-17
+### Added
+- Layout to Now page.
+
 ### Changes
 - Link colors (green is more my style), and set links to bold weight.
+- Tidy up readme wording.
 
 ## [0.1.6] - 2020-11-16
 ### Changed
