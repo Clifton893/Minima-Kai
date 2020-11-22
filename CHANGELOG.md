@@ -5,9 +5,12 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 - [Date format](https://www.iso.org/iso-8601-date-and-time-format.html) is `YEAR-MONTH-DAY`.
 
 ## [Unreleased]
-- Add humans.txt
 - Add Google Analytics
 - Remove all stock Minima blog posts
+
+## [0.2.0] - 2020-11-21
+### Added
+- Profile picture to About page.
 
 ## [0.1.8] - 2020-11-19
 ### Added
