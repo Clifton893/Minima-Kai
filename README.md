@@ -1,5 +1,5 @@
 # Clifton's Blog
-![statusbadge](https://img.shields.io/badge/status-in--progress-brightgreen?style=for-the-badge)
+![statusbadge](https://img.shields.io/badge/status-live-brightgreen?style=for-the-badge)
 
 ## 👋 Introduction
 - This repo for my personal blog, based on the [Minima](https://github.com/jekyll/minima) Jekyll theme.
@@ -25,6 +25,7 @@ This repo follows the Gitflow Workflow model, established by [Vincent Driessen](
 - [Jorge Sanz](https://jorgesanz.net/)
 - [Kim Thuy Tu](https://www.kimthuytu.com/)
 - [Hermione Gogou](https://www.hermionegogou.com/)
+- [Isabel Costa](https://github.com/isabelcosta)
 
 ## 📄 License
 - Code: [MIT](http://opensource.org/licenses/MIT)
