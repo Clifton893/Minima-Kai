@@ -25,6 +25,7 @@ This repo follows the Gitflow Workflow model, established by [Vincent Driessen](
 - [Jorge Sanz](https://jorgesanz.net/)
 - [Kim Thuy Tu](https://www.kimthuytu.com/)
 - [Hermione Gogou](https://www.hermionegogou.com/)
+- [Isabel Costa](https://github.com/isabelcosta)
 
 ## 📄 License
 - Code: [MIT](http://opensource.org/licenses/MIT)
