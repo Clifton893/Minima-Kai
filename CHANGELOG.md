@@ -10,6 +10,7 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [1.0.0] - 2020-11-24
 ### Changed
 - The site is now live! :D
+- Updated the Now page.
 
 ## [0.2.1] - 2020-11-24
 ### Added
