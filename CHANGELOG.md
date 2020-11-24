@@ -6,7 +6,16 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 
 ## [Unreleased]
 - Add Google Analytics
-- Remove all stock Minima blog posts
+
+## [0.2.1] - 2020-11-14
+### Added
+- First post to the blog.
+
+### Changed
+- Altered some copy on the home page.
+
+### Removed
+- Stock blog posts from Minima theme.
 
 ## [0.2.0] - 2020-11-21
 ### Added

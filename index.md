@@ -16,4 +16,7 @@ I love learning, I love technology, and I love solving problems. So I created th
 - Coding this site was a great exercise in source control, web development, and project management;
 - Potential employers can see if I'm a good fit for their team.
 
-Regardless of why you're here, welcome to my blog!
+#### Wanna get in touch?
+If you're visiting this site, there's a good chance you came via my resume or job application. So, you probably already have my contact info.
+
+But if you didn't, you can reach me on LinkedIn or Twitter through the links in my site footer!
