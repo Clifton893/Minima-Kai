@@ -7,6 +7,10 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [Unreleased]
 - Add Google Analytics
 
+## [1.0.1] - 2020-11-29
+### Changed
+- Updated the Now page.
+
 ## [1.0.0] - 2020-11-24
 ### Changed
 - The site is now live! :D
