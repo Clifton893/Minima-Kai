@@ -31,6 +31,16 @@ body {
 
 
 /**
+ * Cursor highlight
+ */
+
+::selection {
+  background-color: #ff90b6;
+}
+
+
+
+/**
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,

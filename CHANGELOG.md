@@ -7,6 +7,10 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [Unreleased]
 - Add Google Analytics
 
+## [1.0.1] - 2020-12-01
+### Changed
+- Styled the cursor highlight to a nice pink shade, to add to site's visual identity.
+
 ## [1.0.1] - 2020-11-29
 ### Changed
 - Updated the Now page.
