@@ -22,7 +22,7 @@ Browsing the official GitHub Pages themes, [Minima](https://github.com/jekyll/mi
 Like I said, I wanted to inject a little character to this site, and typography is a huge part of a site's visual identity. For that, I chose [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) and [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) to replace Minima's base typography style.
 
 #### IBM Plex Sans
-As a lifelong Texan and decade-long Austinite, I loved the idea of honoring IBM by using this typeface. After all, IBM was a major influencer in Austin's evolution as a booming tech city. But I also loved the visual identity of **IBM Plex Sans**. It's easy on the eyes, and pleasant to read. It's also got style (check out the capital "J"!), and has a playful, engineering vibe to it. I love it!
+As a lifelong Texan and decade-long Austinite, I loved the idea of honoring IBM by using this typeface. After all, IBM was a major influencer in Austin's evolution as a booming tech city. But I also loved the visual identity of **IBM Plex Sans**. It's easy on the eyes, and pleasant to read. It's also got style (check out the capital J!), and has a playful, industrial vibe to it. I love it!
 
 I had considered [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif)... but that made my site look too much like Medium. 😜
 
@@ -31,12 +31,13 @@ The other good thing about the IBM Plex superfamily is `IBM Plex Mono`, which is
 
 ### Why did I pick these colors?
 Green and pink are my brand colors:
+
 - Green represents growth, nature, and calm.
 - Pink symbolizes compassion, playfulness, and invitation.
 
 Paired together, the colors suit my eccentric personality and zen attitude--and they look great! But, I had to use them in accordance with WCAG. 
 
-So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely hue of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
+So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely hue of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), setting it as the cursor highlight color.
 
 ### Takeaways
 I learned a lot about web development over the course of this project. 
