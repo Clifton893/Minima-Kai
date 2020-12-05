@@ -37,3 +37,16 @@ Green and pink are my brand colors:
 Paired together, the colors suit my eccentric personality and zen attitude--and they look great! But, I had to use them in accordance with WCAG. 
 
 So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely huge of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
+
+### Takeaways
+I learned a lot about web development over the course of this project. 
+
+On the documentation side, this was my first time implementing a changelog. Version history and semantics were new subjects for me, and it was exciting to begin understanding them. My README-writing skills have improved too, I think.
+
+My agile-based methodology improved, too. I relied more heavily on Trello in a kanban format, which really helped break the project down into bite-sized, accomplishable features.
+
+On the development side, this project was where I really began using proper version control. I still relied on GitHub's GUI (rather than using git through the command line), but my understanding of branch structure really leveled up here. 
+
+I also noticed my temperament and patience have come a long way. I used to get frustrated when bugs popped up, taking failure as a personal slight. With practice, study, and a little mellowing with age, I'm pleased that I've gotten way better at troubleshooting and solving problems.
+
+**In summary:** I'm really happy with how things turned out! The site ended up as I had envisioned, and I'm a far stronger web developer for having produced it.
