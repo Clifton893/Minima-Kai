@@ -7,13 +7,17 @@ and this project does not adhere to -- but is strongly inspired by -- [Semantic 
 ## [Unreleased]
 - Add Google Analytics
 
+## [1.1.0] - 2020-12-05
+### Changed
+- Made final edits to case study blog post, and merged it to the production site.
+
 ## [1.0.4] - 2020-12-04
 ### Changed
 - Commented out "a:visited" style; it looks a bit nicer with uniform hyperlink color.
 
 ## [1.0.3] - 2020-12-03
 ### Added
-- Website case study to blog.
+- Website case study draft to blog.
 
 ## [1.0.2] - 2020-12-01
 ### Changed
