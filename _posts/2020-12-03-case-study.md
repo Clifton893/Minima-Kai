@@ -30,9 +30,10 @@ As a lifelong Texan and decade-long Austinite, I loved the idea of honoring IBM 
 The other good thing about the IBM Plex superfamily is `IBM Plex Mono`, which is ideal for code snippets. So, I replaced the default monospace font with it, as a gorgeous compliment to IBM Plex Sans in the body.
 
 ### Why did I pick these colors?
-- Green and pink are my brand colors:
-  - Green represents growth, nature, and calm.
-  - Pink symbolizes compassion, playfulness, and invitation.
-  - Paired together, the colors suit my eccentric personality and zen attitude. (And they look great!)
+Green and pink are my brand colors:
+- Green represents growth, nature, and calm.
+- Pink symbolizes compassion, playfulness, and invitation.
 
-But I had to use them in accordance with WCAG. So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely huge of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
+Paired together, the colors suit my eccentric personality and zen attitude--and they look great! But, I had to use them in accordance with WCAG. 
+
+So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely huge of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
