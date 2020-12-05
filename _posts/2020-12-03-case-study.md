@@ -24,7 +24,7 @@ Like I said, I wanted to inject a little character to this site, and typography 
 #### IBM Plex Sans
 As a lifelong Texan and decade-long Austinite, I loved the idea of honoring IBM by using this typeface. After all, IBM was a major influencer in Austin's evolution as a booming tech city. But I also loved the visual identity of **IBM Plex Sans**. It's easy on the eyes, and pleasant to read. It's also got style (check out the capital "J"!), and has a playful, engineering vibe to it. I love it!
 
-> I had considered [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif)... but that made my site look too much like Medium. 😜
+I had considered [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif)... but that made my site look too much like Medium. 😜
 
 #### IBM Plex Mono
 The other good thing about the IBM Plex superfamily is `IBM Plex Mono`, which is ideal for code snippets. So, I replaced the default monospace font with it, as a gorgeous compliment to IBM Plex Sans in the body.
@@ -36,7 +36,7 @@ Green and pink are my brand colors:
 
 Paired together, the colors suit my eccentric personality and zen attitude--and they look great! But, I had to use them in accordance with WCAG. 
 
-So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely huge of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
+So I rooted around, and settled on [Google Chrome Green](https://encycolorpedia.com/1aa260). Set to a bold weight, the color added a vibrant pop to the website. I complimented it with a [lovely hue of pink](https://encycolorpedia.com/ff90b6) I had set aside in my notes (because I do geeky things like that), which I set for the cursor highlight color.
 
 ### Takeaways
 I learned a lot about web development over the course of this project. 
