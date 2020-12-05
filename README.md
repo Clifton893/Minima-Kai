@@ -15,12 +15,6 @@ I love learning, I love technology, and I love solving problems. So I created th
 2. Coding this site was a great exercise in source control, web development, and project management;
 3. Potential employers can see if I'm a good fit for their team, and gauge my IT understanding.
 
-## 🏛 Structure
-This repo follows the Gitflow Workflow model, established by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/):
-- `main` serving as the released, production-ready branch
-- `develop` for a working branch for the next release
-- `feature`, `release`, and `hotfix` as modular, supporting branches 
-
 ## 🙏 Credits/Inspirations
 - [Jorge Sanz](https://jorgesanz.net/)
 - [Kim Thuy Tu](https://www.kimthuytu.com/)
