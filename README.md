@@ -1,9 +1,8 @@
 # Clifton's Blog
-![statusbadge](https://img.shields.io/badge/status-live-brightgreen?style=for-the-badge)
+![statusbadge](https://img.shields.io/badge/status-offline-red?style=for-the-badge)
 
 ## 👋 Introduction
-- This repo for my personal blog, based on the [Minima](https://github.com/jekyll/minima) Jekyll theme.
-- This is placeholder content for this README file, and will be updated with a proper format and content.
+- This repo was for my personal blog, based on the [Minima](https://github.com/jekyll/minima) Jekyll theme.
 
 ## 📝 Release History
 See: [CHANGELOG.md](/CHANGELOG.md)
